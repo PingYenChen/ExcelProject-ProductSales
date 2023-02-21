@@ -18,6 +18,8 @@ To create a dashboard for sales manager to monitor sales information each month 
 
 6)Show the top performing product by monthly change in sales quantity
 
+7)The users can continue to add new rows in table and the final dashboard will reflect the most updated data input automatically.
+
 ## Worhsheet in excel
 1)data_original:original dataset from Kaggle. 
 
