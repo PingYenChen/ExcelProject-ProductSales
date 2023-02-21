@@ -41,4 +41,4 @@ This dashboard can benefit manager for the followings:
 
 5)After reviewing the above, the manager can then find out what causes the monthly change and revise business strategies to improve the busienss performance.
 
-## Thank you for reviwing 
+## Thank you for reviewing 
