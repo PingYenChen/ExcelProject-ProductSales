@@ -1,6 +1,6 @@
 # ExcelProject-ProductSalesDashboard
 
-This dataset is sourced from Kaggle(https://www.kaggle.com/datasets/ksabishek/product-sales-data).Please note it is a hypothetical dataset for practice only. 
+This dataset is sourced from Kaggle(https://www.kaggle.com/datasets/ksabishek/product-sales-data). Please note it is a hypothetical dataset for practice only. 
 Original dataset has 10 columns, being index, 10 years date period, 4 columns for 4 product sales quantities and another 4 columns for 4 product sales revenues.I added additional 2 months sales data to the end of March 2023 for dashboard presentation purpose. And also assume it is a toy shop sales data.
 
 ## Demand for Dashboard
